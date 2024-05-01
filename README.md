@@ -23,7 +23,7 @@ Feel free to explore my repositories to see more of my work!
 ## Contact Me
 
 - 📧 Email: ssin1949@my.centennialcollege.ca
-- 🔗 LinkedIn: Sandeep (https://www.linkedin.com/in/sandeep-singh-1010/)
-- https://e.centennialcollege.ca/d2l/ep/6606/dashboard/index?ou=6606
+- 🔗 LinkedIn: [Sandeep Singh](https://www.linkedin.com/in/sandeep-singh-1010/)
+- [Portfolio](https://e.centennialcollege.ca/d2l/ep/6606/dashboard/index?ou=6606)
 
 Let's connect and collaborate on exciting projects together!
