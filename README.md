@@ -15,7 +15,7 @@ Hi there! 👋 I'm Sandeep Singh, a Software Engineering student specializing in
 
 Here are some projects I've been working on:
 
-1. [Website Development](https://sandeepsingh1010.github.io/WebInterface_FinalProject.github.io/){:target="_blank"}: A Website for my realtor.
+1. [Website Development](https://sandeepsingh1010.github.io/WebInterface_FinalProject.github.io/): A Website for my realtor.
 2. Arduino CNC Robot (link): Machine helps draw on paper.
 
 Feel free to explore my repositories to see more of my work!
@@ -23,7 +23,7 @@ Feel free to explore my repositories to see more of my work!
 ## Contact Me
 
 - 📧 Email: ssin1949@my.centennialcollege.ca
-- 🔗 LinkedIn: [Sandeep Singh](https://www.linkedin.com/in/sandeep-singh-1010/){:target="_blank"}
-- [Portfolio](https://e.centennialcollege.ca/d2l/ep/6606/dashboard/index?ou=6606){:target="_blank"}
+- 🔗 LinkedIn: [Sandeep Singh](https://www.linkedin.com/in/sandeep-singh-1010/)
+- [Portfolio](https://e.centennialcollege.ca/d2l/ep/6606/dashboard/index?ou=6606)
 
 Let's connect and collaborate on exciting projects together!
