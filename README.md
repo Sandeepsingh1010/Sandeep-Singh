@@ -11,12 +11,31 @@ Hi there! 👋 I'm Sandeep Singh, a Software Engineering student specializing in
 - 💻 Software Engineering: From design to implementation, I love diving deep into the software development lifecycle to create robust and scalable solutions.
 - 🎨 UX/UI Design: I believe that great software should not only function flawlessly but also provide an intuitive and visually appealing user experience.
 
-## Projects
+## Skills Set
 
-Here are some projects I've been working on:
+### C++
+- **Programming:** 
+  - **Basics:** Data Types, I/O, Looping, Arrays, Methods.
+  - **Intermediate:** Combining basic concepts in projects.
 
-1. [Website Development](https://sandeepsingh1010.github.io/WebInterface_FinalProject.github.io/): A Website for my realtor.
-2. Arduino CNC Robot (link): Machine helps draw on paper.
+### Python
+- **Software Engineering:** 
+  - **Fundamentals:** Data Types, Dictionaries, Functions.
+  - **Applications:** Scripting, Automation, Web Development.
+
+### HTML, CSS
+- **Projects:** 
+  - **[Website Development](https://sandeepsingh1010.github.io/WebInterface_FinalProject.github.io/)**: A website for my realtor.
+- **Language:** 
+  - **HTML:** Elements, Tags, Tables, Forms.
+  - **CSS:** Styles, Layouts, Responsive Design.
+
+### Arduino
+- **Projects:** 
+  - **[Arduino CNC Robot](link)**: A machine for drawing on paper.
+- **Language:** 
+  - **Skills:** Memory Allocation, Multi-tasking.
+  - **Specialization:** Mechatronics Engineering.
 
 Feel free to explore my repositories to see more of my work!
 
