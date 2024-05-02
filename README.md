@@ -15,7 +15,7 @@ Hi there! 👋 I'm Sandeep Singh, a Software Engineering student specializing in
 
 Here are some projects I've been working on:
 
-1. [Website Development](https://sandeepsingh1010.github.io/WebInterface_FinalProject.github.io/){:target="_blank"}: A Website for my realtor.
+1. [Website Development](https://sandeepsingh1010.github.io/WebInterface_FinalProject.github.io/){target="_blank"}: A Website for my realtor.
 2. Arduino CNC Robot (link): Machine helps draw on paper.
 
 Feel free to explore my repositories to see more of my work!
